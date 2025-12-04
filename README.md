@@ -1,52 +1,31 @@
-<h2 align="left">Olá 👋! Meu nome é Marcus Barbosa</h2>
-<h3>Estudante de Ciência da Computação — CESAR School</h3>
+<h2> 🌟 Olá! Eu sou o Marcus Vinícius Pereira Barbosa </h2>
+<h3 align="left">Barcharelado em Ciência da Computação na CESAR School</h3>
 
----
+<p>Tenho formação em Curso técnico de 3 anos disponibilizado pelo SENAI de "Programação e Desenvolvimento" de jogos Digitais.
+  Tenho experiência profissional de curto prazo: Trabalhei em uma gráfica pouco conhecida por cerca de 4 à 5 meses.
+  Sei trabalhar em equipe, busco sempre fazer um trabalho excelente e de qualidade, sou bom em gestão de tempo como também sei trabalhar sobre pressão.
+  Sei programar em Python, CSS, Java Script, HTML. Participei do GRAND PIX (juntamente com o SENAI de Areias) de 2023 e 2024. </p>
 
-## 📊 Minhas Estatísticas
+📌 Sobre mim
+<ul>
+  <li>Atualmente me encontro no final do 1° período do Barcharelado</li>
+  <li>Fiz um jogo em No Code juntamente com um parceiro meu</li>
+  <li>Atualmente estou finalizando um projeto que tem relação com a CESAR School</li>
+  <li>Trabalho bem sobre pressão e com outras pessoas</li>
+  <li>Possuo uma exelente gestão de tempo</li>
+  <li>Tive uma breve esperiência profissional, como já foi citado anteriormente</li>
+</ul>
 
-<div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=MarcusBarbosa-web&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
-    height="150"
-    alt="GitHub Stats"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcusBarbosa-web&layout=compact&theme=tokyonight"
-    height="150"
-    alt="Top Langs"
-  />
-</div>
 
----
 
-## 🚀 Tecnologias
-
+🌐 Onde Podem me encontrar
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30"/>
+  <a href="#" target="_blank"> <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35"/> </a>
+  <a href="#" target="_blank"> <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&style=for-the-badge" height="35"/> </a>
+  <a href="#" target="_blank"> <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="35"/> </a>
+  <a href="mailto:mvpb@cesar.school" target="_blank"> <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35"/> </a>
+  <a href="https://www.linkedin.com/in/marcus-barbosa21/" target="_blank"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35"/> </a>
 </div>
 
----
 
-## 🌐 Redes Sociais
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="35"/>
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35"/>
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&style=for-the-badge" height="35"/>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="35"/>
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35"/>
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35"/>
-</div>
+<div align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" /> </div>
