@@ -22,11 +22,10 @@
 <div align="left">
   <a href="https://www.instagram.com/vpmarcus_?utm_source=qr&igsh=bTIzbzNmODRvdjZ4" target="_blank"> <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35"/> </a>
   <a href="https://www.twitch.tv/marcusrex22" target="_blank"> <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&style=for-the-badge" height="35"/> </a>
-  <a href="#" target="_blank"> <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="35"/> </a>
-  <a>ID do meu discord: 571428014454341634</a>
   <a href="https://www.linkedin.com/in/marcus-barbosa21/" target="_blank"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35"/> </a>
 </div>
-<a>E-mail: mvpb@cesar.school</a>
+<p>ID do meu discord: 571428014454341634</p>
+<p>E-mail: mvpb@cesar.school</p>
 
 
 <div align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" /> </div>
